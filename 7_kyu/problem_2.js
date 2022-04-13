@@ -10,6 +10,12 @@ function filter_list(arrList) {
     }
     return arr;
 }
+
+
+
+/* function filter_list(l){
+    return l.filter(ls => typeof ls == 'number')
+} */
 // console.log(filter_list([1, "a", "b", 0, 15]));
 
 
